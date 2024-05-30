@@ -12,8 +12,7 @@ O site é composto por várias seções, cada uma dedicada a um tipo específico
 
 - **Home**: A página inicial do site.
 - **Notícias**: Seção dedicada a notícias recentes do mundo da tecnologia.
-- **Curiosidades**: Artigos e informações interessantes sobre diversos tópicos tecnológicos.
-- **Fale Conosco**: Página para os visitantes entrarem em contato com os criadores do site.
+- **Contato**: Página para os visitantes entrarem em contato com os criadores do site.
 
 ### Artigo em Destaque
 
