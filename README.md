@@ -4,7 +4,7 @@
 
 Bem-vindo ao repositório "Curiosidade de Tecnologia"! Este projeto foi desenvolvido como parte do curso de HTML5 e CSS3 oferecido pelo [Curso em Vídeo](https://www.cursoemvideo.com/) e ministrado pelo professor Gustavo Guanabara.
 
-O objetivo deste projeto é criar um site informativo que reúne curiosidades sobre o mundo da tecnologia. Nele, você encontrará artigos interessantes, notícias atualizadas e várias seções que abordam temas diversos dentro do universo tech.
+O objetivo deste projeto é criar um site responsivo e utilizar todos os estudos aprendidos durante o curso.
 
 ## Estrutura do Projeto
 
@@ -25,7 +25,6 @@ Este artigo explora a origem e a evolução do mascote do sistema operacional An
 
 - **HTML5**: Utilizado para estruturar o conteúdo do site.
 - **CSS3**: Utilizado para estilizar e layoutar o site.
-- **Inkscape**: Mencionado no artigo sobre o mascote do Android, como ferramenta utilizada para a criação das primeiras versões do mascote.
 
 ## Responsividade
 
