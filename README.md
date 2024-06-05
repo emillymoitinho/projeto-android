@@ -17,7 +17,7 @@ Este artigo explora a origem e a evolução do mascote do sistema operacional An
 
 ## Responsividade
 
-O site "Curiosidade de Tecnologia" é totalmente responsivo, garantindo uma boa experiência de navegação em dispositivos móveis, tablets e desktops. A responsividade foi implementada utilizando media queries e técnicas de design responsivo, assegurando que o conteúdo se adapte de maneira fluida a diferentes tamanhos de tela.
+O site "Curiosidade de Tecnologia" é totalmente responsivo, garantindo uma boa experiência de navegação em dispositivos móveis, tablets e desktops. A responsividade foi implementada utilizando técnicas de design responsivo, assegurando que o conteúdo se adapte de maneira fluida a diferentes tamanhos de tela.
 
 ## Créditos
 
