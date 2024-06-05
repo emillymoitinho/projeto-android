@@ -6,16 +6,6 @@ Bem-vindo ao repositório "Curiosidade de Tecnologia"! Este projeto foi desenvol
 
 O objetivo deste projeto é criar um site responsivo e utilizar todos os estudos aprendidos durante o curso.
 
-## Estrutura do Projeto
-
-O site é composto por várias seções, cada uma dedicada a um tipo específico de conteúdo:
-
-- **Home**: A página inicial do site.
-- **Notícias**: Seção dedicada a notícias recentes do mundo da tecnologia.
-- **Contato**: Página para os visitantes entrarem em contato com os criadores do site.
-
-### Artigo em Destaque
-
 #### História do Mascote do Android
 
 Este artigo explora a origem e a evolução do mascote do sistema operacional Android, desde as primeiras tentativas de criação até a versão final conhecida como Bugdroid.
